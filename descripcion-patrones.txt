@@ -1,0 +1,16 @@
+Patrón Observable
+Un ejemplo de este patron son las listas de correo, donde los usuarios se inscriben para poder tener las últimas caracteristicas. Pero que solo les llegarán cuando estos usuarios las soliciten o cuando esten pendientes por medio de un algo de lo que diga el emisor.
+
+Patrón Decorador
+Cuando se tiene una estructura en un modelo y se quiere modificar un comportamiento por ejemplo, al momento de guardarlo o consultarlo, se realiza a través de este patrón. Donde al momento de ejecutarse el comportamiento el decorador se habilitara para adicionar un paso más en el manejo de lo que se haya solicitado.
+
+Patrón Singleton
+Cuando se crea una instancia y se necesita limitar la duplicidad, se debe generar un constructor privado y uno publico, lo cual hara que si se llama devuelva el almacenado en cache.
+
+
+
+
+
+
+
+
